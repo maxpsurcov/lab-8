@@ -1,0 +1,7 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Student\source\repos\ConsoleApplication2\ConsoleApplication2\Time.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Time.cpp
+C:\Users\Student\source\repos\ConsoleApplication2\ConsoleApplication2\Time.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Triad.cpp
+  Generating Code...
+  ConsoleApplication2.vcxproj -> C:\Users\Student\source\repos\ConsoleApplication2\Debug\ConsoleApplication2.exe
